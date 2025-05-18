@@ -50,14 +50,14 @@
 
 - **Back-End Development**:
 
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
     <p>  </p>
   
 <br>
 
 - **Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=github,vscode,postman,powershell,linux)](https://skillicons.dev)
     <p> </p>
 
 <br> 
