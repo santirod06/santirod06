@@ -67,16 +67,13 @@
 
 </div>
 
-<br>
-<br>
-
-
 ## :mailbox: **Let's Connect..!**
 
 <br>
 
-   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) 
-   [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+  - Linkedin: [aqui](www.linkedin.com/in/santiago-rodríguez-tato-09ba56319)
+  - Gmail: 
+
    
 <br>
 <br>
@@ -93,6 +90,6 @@
 <br>
 
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Santiago Rodríguez](https://github.com/santirod06)
 
-Last Edited on: 09/11/2022
+Last Edited on: 18/05/2025
