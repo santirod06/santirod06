@@ -14,11 +14,11 @@
 
 <br>
 
-- lorem lorem lorem
+- 🎓 Studying Computer Engineering  
   
-- informacion sobre mi...
+- 💻 Freelance Software Developer
   
-- un poco mas de info...
+- 🌐 Building Fullstack Web Applications
   
 <br>
 <br>
@@ -67,29 +67,23 @@
 
 </div>
 
-## :mailbox: **Let's Connect..!**
+## :mailbox: **Let's Connect..!** 
 
 <br>
 
-  - Linkedin: [aqui](www.linkedin.com/in/santiago-rodríguez-tato-09ba56319)
-  - Gmail: 
+  - Linkedin: [aqui](https://www.linkedin.com/in/santiago-rodríguez-tato-09ba56319)
+  - Gmail: [aqui](mailto:santi.rodriguez.2004.sr@gmail.com?subject=Hola.)
 
-   
 <br>
 <br>
-<br>
-
 
 <div align='center'>
 	
 ## <b> Goodbye...✨ </b>
 </div>
 
-<br>
-<br>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
-Credit: [Santiago Rodríguez](https://github.com/santirod06)
+Credits: [Santiago Rodríguez](https://github.com/santirod06)
 
 Last Edited on: 18/05/2025
