@@ -16,7 +16,7 @@
 
 - 🎓 Studying Computer Engineering  
   
-- 💻 self-taught software developer
+- 💻 Self-taught software developer
   
 - 🌐 Building Fullstack Web Applications
   
