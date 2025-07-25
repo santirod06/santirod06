@@ -50,7 +50,7 @@
 
 - **Back-End Development**:
 
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql)](https://skillicons.dev)
     <p>  </p>
   
 <br>
